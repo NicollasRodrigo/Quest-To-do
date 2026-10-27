@@ -1,4 +1,4 @@
-# ✅ Quest Todo
+# ✅ Quest To-do
 
 Aplicação de lista de tarefas desenvolvida com **React + Vite**, criada para praticar gerenciamento de estado, componentes e interação com o usuário.
 
